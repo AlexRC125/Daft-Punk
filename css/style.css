@@ -53,3 +53,6 @@ width: fit-content;
   h3{
     text-align: center;
   }
+  .col{
+border: solid black 2px;
+  }
