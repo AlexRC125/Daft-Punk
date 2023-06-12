@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: darkgray;
+  background-image: url("1231232636_photo-wallpaper-line-yellow-geometry-background-vector-graphic.jpg");
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: goldenrod;
 }
 
 .topnav a {
