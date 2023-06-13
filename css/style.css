@@ -1,7 +1,9 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url("1231232636_photo-wallpaper-line-yellow-geometry-background-vector-graphic.jpg");
+  background-repeat: no-repeat;
+  background-size:;
+  background-image: url();
 }
 
 .topnav {
@@ -52,5 +54,10 @@ width: fit-content;
   }
   h3{
     text-align: center;
+  }
+  .row {
+margin-top: auto;
+margin-right: auto;
+margin-left: auto;
   }
   

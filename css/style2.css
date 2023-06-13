@@ -53,4 +53,8 @@ body {
     h3{
       text-align: center;
     }
-    
+    .row {
+      margin-top: auto;
+      margin-right: auto;
+      margin-left: auto;
+        }

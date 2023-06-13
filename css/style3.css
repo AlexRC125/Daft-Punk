@@ -56,3 +56,8 @@ body {
     .col{
       border: solid black 2px;
         }
+        .row {
+          margin-top: auto;
+          margin-right: auto;
+          margin-left: auto;
+            }
